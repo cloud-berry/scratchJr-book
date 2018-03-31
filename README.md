@@ -1,4 +1,5 @@
 # scratchJr儿童编程
+
 ## 本书介绍
 ---
 写这本书的想法是最近萌发的，做了半年的scratchJr的编程教学，用写书的方式把这段时间做的编程教学总结和整理一下。
@@ -44,3 +45,6 @@ _个人文字能力有限，请指正。_
 15. 事件代码块
 16. 思维导图
 16. 项目
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
