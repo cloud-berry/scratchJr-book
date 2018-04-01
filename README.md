@@ -26,10 +26,10 @@ scratchJr是大名鼎鼎的儿童编程工具scratch的Junior(初级)版本，�
 
 ## 目录
 
-1. [什么是编程？(Programming)](/chapters/chapter01-Programming.md)
-2. [生活中的算法 (Algrithm)](/chapters/chapter02-Algorithm.md)
-3. [勇对失败(Face to failure)](#)
-4. [安装scratchJr](/chapters/chapter04-setup.md)
+1. [安装scratchJr](#)
+2. [什么是编程？(Programming)](#)
+3. [生活中的算法 (Algrithm)](#)
+4. [勇对失败(Face to failure)](#)
 5. 顺序（Sequence）
 6. "Hello World"
 7. 移动代码块
@@ -45,6 +45,11 @@ scratchJr是大名鼎鼎的儿童编程工具scratch的Junior(初级)版本，�
 17. 事件代码块
 18. 思维导图
 19. 项目
+20. 附录
+  1. 界面
+  2. 绘画板
+  3. 代码块
+  4. 小技巧
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
