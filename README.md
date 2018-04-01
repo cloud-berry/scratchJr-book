@@ -26,7 +26,7 @@ scratchJr是大名鼎鼎的儿童编程工具scratch的Junior(初级)版本，�
 
 ## 目录
 
-1. [安装scratchJr](#)
+1. [安装scratchJr](/chapters/chapter01-Setup)
 2. [什么是编程？(Programming)](#)
 3. [生活中的算法 (Algrithm)](#)
 4. [勇对失败(Face to failure)](#)
