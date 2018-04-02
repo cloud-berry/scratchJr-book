@@ -3,7 +3,7 @@
 ## 版本
 v0.1
 
-## 本书介绍
+## 本书介绍(Introduction)
 
 > 为了给6岁上大班的女儿做编程启蒙，从2017年下半年开始做儿童编程的研究和教学。
 > 写这本书的想法是最近萌发的，做了半年的scratchJr的编程教学，通过这种方式做个总结和整理。
@@ -25,7 +25,7 @@ scratchJr是大名鼎鼎的儿童编程工具scratch的Junior(初级)版本，�
 
 [点击进入scratchJr官网](http://www.scratchjr.org/)
 
-## 目录
+## 目录(Table of content)
 
 1. [安装scratchJr](/chapters/chapter01-Setup.md)
 2. [什么是编程？(Programming)](/chapters/chapter02-Programming.md)
@@ -52,6 +52,6 @@ scratchJr是大名鼎鼎的儿童编程工具scratch的Junior(初级)版本，�
   3. 代码块
   4. 小技巧
 
-## 版权License
+## 版权(License)
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
-<br />本书受版权保护： <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">版权归属作者-不可用于商业-不可修改发布</a>。
+<br />本书受以下版权保护： <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">CC-版权归属作者-不可用于商业-不可修改发布</a>。
