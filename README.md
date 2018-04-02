@@ -52,5 +52,6 @@ scratchJr是大名鼎鼎的儿童编程工具scratch的Junior(初级)版本，�
   3. 代码块
   4. 小技巧
 
-## License
+## 版权License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
+<br />本书受版权保护： <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">版权归属作者-不可用于商业-不可修改发布</a>。
